@@ -51,11 +51,6 @@ Whether you're preparing for interviews or upgrading your Java skills, this is t
 
 Feel free to open issues or pull requests if you'd like to contribute or suggest improvements. Let’s make learning Java 8 easier for everyone!
 
----
-
-## 📄 License
-
-This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
